@@ -16,8 +16,10 @@ Enviar al **url** [https://playfast.com/auth/auto-login/usuario/password](https:
 ### Los siguientes Parámetros: 
 - Usuario 
 - password
+
+### De manera Encriptada: 
 - Encriptación (Base 64)
-- Playfast
+- Clave= Playfast
  
 **La url debe quedar como el siguiente ejemplo:**
 
