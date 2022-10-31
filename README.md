@@ -3,11 +3,13 @@
 
 
 ## Paso 1:
-Enviar al **url** [https://playfast.com/auth/auto-login/usuario/password](https://playfast.com/auth/auto-login/usuario/password) el usuario y password.
+Enviar al **url** [https://playfast.com/auth/auto-login/usuario/password](https://playfast.com/auth/auto-login/usuario/password):
+- Usuario 
+- y password.
  
 🔐Este usuario que nos envían lo encriptamos de la siguiente manera:
 
-- AES con clave Playfast:
+- **AES con clave Playfast**:
 El resultado de este encriptado, se encripta en base64 y la url queda de la siguiente manera:
 
 **Ejemplo:**
