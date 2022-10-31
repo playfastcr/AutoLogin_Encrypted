@@ -7,7 +7,7 @@ Enviar al **url** [https://playfast.com/auth/auto-login/usuario/password](https:
 
 ### Parametros: 
 - Usuario 
-- y password.
+- y password
  
 🔐Este usuario que nos envían lo encriptamos de la siguiente manera:
 
