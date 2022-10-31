@@ -3,7 +3,7 @@
 
 
 ## Paso 1:
-Enviar al[url](https://playfast.com/auth/auto-login/usuario/password) el usuario y password.
+Enviar al **url** https://playfast.com/auth/auto-login/usuario/password el usuario y password.
  
 🔐Este usuario esta encriptado de la siguiente manera:
 
