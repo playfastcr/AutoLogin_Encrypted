@@ -3,9 +3,17 @@
 
 
 ## Paso 1:
+Insertar en los sites de GBS, el siguiente fragmento de código:
+
+```
+<iframe width="950" height="650" src="https://playfast.com/auth/auto-login/usuario/password" name="PlayFastAutologin"></iframe>
+```
+
+## Paso 2:
+
 Enviar al **url** [https://playfast.com/auth/auto-login/usuario/password](https://playfast.com/auth/auto-login/usuario/password) 
 
-### Parametros: 
+### Los siguientes Parámetros: 
 - Usuario 
 - y password
  
