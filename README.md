@@ -44,7 +44,7 @@ De esta manera, con el ejemplo anterior, el username se encripto de la siguiente
 Al generar la URL correctamente se redireccionara al Home (https://playfast.com/home), de lo contrario la pantalla queda en blanco y no es redirigida.
 
 
-## Paso 4: iframe (Opcional)
+## Paso 4: Versión iframe (Opción)
 Insertar en los sites de GBS, el siguiente fragmento de código, donde se envíen el usuario y password encriptados, como se detalló anteriormente. 
 
 ```
