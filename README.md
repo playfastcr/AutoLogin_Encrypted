@@ -35,10 +35,7 @@ De esta manera, con el ejemplo anterior, el username se encripto de la siguiente
 "LK1453" -> (AES + clave) ->
 "U2FsdGVkX19ij+/hccJ/KCk5geN2kMDhkcGACuJKjRw=" -> (Base64) ->
 "VTJGc2RHVmtYMTlpaisvaGNjSi9LQ2s1Z2VOMmtNRGhrY0dBQ3VKS2pSdz0="
-```
 
-- Password
-```
 "12345678" -> (AES + clave) ->
 "U2FsdGVkX182EfP2rnLu+fCLd9oQ32iLj9nWI21AJPw=" -> (Base64) ->
 "VTJGc2RHVmtYMTgyRWZQMnJuTHUrZkNMZDlvUTMyaUxqOW5XSTIxQUpQdz0="
