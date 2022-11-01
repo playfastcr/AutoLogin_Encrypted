@@ -45,7 +45,7 @@ Al generar la URL correctamente se redireccionara al Home (https://playfast.com/
 
 
 ## Paso 4: iframe (Opcional)
-Insertar en los sites de GBS, el siguiente fragmento de código:
+Insertar en los sites de GBS, el siguiente fragmento de código, donde se envíen el usuario y password encriptados, como se detalló anteriormente. 
 
 ```
 <iframe width="950" height="650" src="https://playfast.com/auth/auto-login/usuario/password" name="PlayFastAutologin"></iframe>
