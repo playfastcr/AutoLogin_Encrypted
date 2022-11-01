@@ -3,7 +3,14 @@
 
 ## Paso 1: Formato 
 
-La URL tiene el siguiente formato:  playfast.com/auth/auto-login/usuario/password donde "usuario" es el username de los jugadores y "password" es la clave de la cuenta del jugador, estos deben ser reemplazados por los resultados de las encriptaciones descritas mas adelante. De esta forma una URL luciria de la siguiente manera:
+La URL tiene el siguiente formato: [https://playfast.com/auth/auto-login/usuario/password](https://playfast.com/auth/auto-login/usuario/password) 
+Donde:
+- "usuario" es el username GBS de los jugadores, 
+- y "password" es la clave de la cuenta del jugador, 
+
+**estos deben ser reemplazados por los resultados de las encriptaciones descritas mas adelante.**
+
+De esta forma una URL luciria de la siguiente manera:
 
 ```
 https://playfast.com/auth/auto-login/VTJGc2RHVmtYMTlpaisvaGNjSi9LQ2s1Z2VOMmtNRGhrY0dBQ3VKS2pSdz0=/VTJGc2RHVmtYMTgyRWZQMnJuTHUrZkNMZDlvUTMyaUxqOW5XSTIxQUpQdz0= 
