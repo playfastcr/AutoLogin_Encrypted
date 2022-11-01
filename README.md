@@ -9,7 +9,7 @@ La URL tiene el siguiente formato: [https://playfast.com/auth/auto-login/usuario
 - "usuario" es el username GBS de los jugadores, 
 - y "password" es la clave de la cuenta del jugador,
  
-**estos deben ser reemplazados por los resultados de las encriptaciones descritas mas adelante.**
+**estos deben ser reemplazados por los resultados de las encriptaciones descritas más adelante.**
 
 De esta forma una URL luciria de la siguiente manera:
 
