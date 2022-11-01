@@ -30,7 +30,6 @@ Los metodos utilizados para encriptar los parametros de la URL son **AES** y **B
 
 De esta manera, con el ejemplo anterior, el username se encripto de la siguiente manera:
 
-- Usuario
 ```
 "LK1453" -> (AES + clave) ->
 "U2FsdGVkX19ij+/hccJ/KCk5geN2kMDhkcGACuJKjRw=" -> (Base64) ->
