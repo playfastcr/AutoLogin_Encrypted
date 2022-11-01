@@ -17,8 +17,11 @@ De esta forma una URL luciria de la siguiente manera:
 https://playfast.com/auth/auto-login/VTJGc2RHVmtYMTlpaisvaGNjSi9LQ2s1Z2VOMmtNRGhrY0dBQ3VKS2pSdz0=/VTJGc2RHVmtYMTgyRWZQMnJuTHUrZkNMZDlvUTMyaUxqOW5XSTIxQUpQdz0= 
 ```
 
-En la URL anterior, luego de "/auto-login/" se encuentra el usuario encriptado:
-VTJGc2RHVmtYMTlpaisvaGNjSi9LQ2s1Z2VOMmtNRGhrY0dBQ3VKS2pSdz0= que fue generado a partir del username: "LK1453" y seguidamente se encuentra el password encriptado: VTJGc2RHVmtYMTgyRWZQMnJuTHUrZkNMZDlvUTMyaUxqOW5XSTIxQUpQdz0=  que fue generado a partir de la clave: "12345678".
+En la URL anterior, luego de **"/auto-login/"** se encuentra el usuario encriptado:
+
+- **VTJGc2RHVmtYMTlpaisvaGNjSi9LQ2s1Z2VOMmtNRGhrY0dBQ3VKS2pSdz0=** que fue generado a partir del username: "LK1453" 
+
+- y seguidamente se encuentra el password encriptado: **VTJGc2RHVmtYMTgyRWZQMnJuTHUrZkNMZDlvUTMyaUxqOW5XSTIxQUpQdz0=**  que fue generado a partir de la clave: "12345678".
 
 ## Paso 2: Encriptación
 Los metodos utilizados para encriptar los parametros de la URL son AES y Base64. La clave utilizada en AES para realizar la encriptacion es "Playfast".
